@@ -108,6 +108,10 @@ body {
   height: 100%;
 }
 
+.full-scale {
+
+}
+
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
   font-weight: 700;
@@ -128,18 +132,7 @@ body {
   align-items: center;
   padding-left: 15px;
   padding-right: 10px;
-}
-
-.div-1 {
-  border: 5px;
-}
-
-.div-2 {
-
-}
-
-.div-3 {
-
+  border: 5px dashed black;
 }
 
 /* ==========================================================================
