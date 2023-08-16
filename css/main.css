@@ -106,7 +106,11 @@ body {
   padding: 2em;
   font-size: 1.25em;
   height: 100%;
-  background-color: #0C6CF1;
+  background-color: #FFD47E;
+}
+
+.header {
+  align-items: stretch;
 }
 
 .wrapper {
